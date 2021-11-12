@@ -1,6 +1,6 @@
 # -
 000 laughing-octo-dollop
-[🌀bluemoon](https://www.markdownguide.org/cheat-sheet/)
+[🌀bluemoon🙂](https://www.markdownguide.org/cheat-sheet/)
 # bluemoon
 - 👋 Hi, I’m @a020f0
 - ai aye eye i 愛
